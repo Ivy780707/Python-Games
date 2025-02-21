@@ -38,12 +38,11 @@ python "your_path\minesweeper.py"
 <img src="image/m2.png" width="300">
 
 3. **Marking a flag**.
-<img src="image/m3.png" width="300">
-<img src="image/m4.png" width="300">
+<img src="image/m3.png" width="300"> <img src="image/m4.png" width="300">
 
 5. **Winning or losing the game**.
 [Lose]<img src="image/m5.png" width="300">
-[Win]<img src="image/m5.png" width="300">
+[Win]<img src="image/m6.png" width="300">
 
 
 
