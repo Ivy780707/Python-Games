@@ -33,8 +33,11 @@ python "your_path\minesweeper.py"
 ## **Game Examples**
 1. **Starting the game**.
 <img src="image/m1.png" width="600">
+
 2. **Input coordinates to select a cell**.
-3. **Marking a flag**3
+
+3. **Marking a flag**
+
 4. **Winning or losing the game**
 
 
