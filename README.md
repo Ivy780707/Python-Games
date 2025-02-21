@@ -35,10 +35,14 @@ python "your_path\minesweeper.py"
 <img src="image/m1.png" width="600">
 
 2. **Input coordinates to select a cell**.
+<img src="image/m2.png" width="300">
 
 3. **Marking a flag**
+<img src="image/m3.png" width="300"><img src="image/m4.png" width="300">
 
 4. **Winning or losing the game**
+[Lose]<img src="image/m5.png" width="300">[Win]<img src="image/m5.png" width="300">
+
 
 
 
