@@ -80,12 +80,12 @@ python "your_path\blackjack.py"
 ```
 ## **Game Examples**
 1. **Starting the game**  
-   <img src="image/m1.png" width="600">
+   <img src="image/b1.png" width="600">
 
 2. **Winning or Losing the Game**  
    | Lose | Win |
    |------|-----|
-   | <img src="image/m5.png" width="300"> | <img src="image/m6.png" width="300"> |
+   | <img src="image/b3.png" width="300"> | <img src="image/b2.png" width="300"> |
 
 
 
