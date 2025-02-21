@@ -85,7 +85,7 @@ python "your_path\blackjack.py"
 2. **Winning or Losing the Game**  
    | Lose | Win |
    |------|-----|
-   | <img src="image/b3.png" width="300"> | <img src="image/b2.png" width="300"> |
+   | <img src="image/b3.png" width="300"> | <img src="image/b2.png" width="400">|
 
 
 
